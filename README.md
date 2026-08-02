@@ -1,2 +1,2 @@
-# curso_alura_1.github.io
+# curso.github.io
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
